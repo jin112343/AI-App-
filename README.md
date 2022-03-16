@@ -1,4 +1,4 @@
-# ワトソンを用いた機械学習アプリ
+# ワトソンを用いた機械学習アプリ(2020,01,22)
 
 ### YouTube(実装動画)
 [YouTube](https://youtu.be/PLHWV82GjFM)
